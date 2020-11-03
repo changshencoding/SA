@@ -73,3 +73,12 @@
 |先決條件|進入證券風險管理及推薦平台|
 |後置條件|無|
 |假設|無|
+
+> DFD
+![DFD](https://i.imgur.com/FTVsjyW.jpg)
+
+> DFD圖0
+![DFD圖0](https://i.imgur.com/wp5S0Yc.jpg)
+
+
+
