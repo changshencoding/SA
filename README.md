@@ -38,7 +38,8 @@
 7. 會員可以進行查看報表、回測及調整個人策略。
 
 > 現階段的使用案例圖
-![](https://i.imgur.com/EEiAe3E.png)
+![](https://i.imgur.com/xKsi1lW.png)
+
 
 > FDD
 ![FDD](https://i.imgur.com/KEIyesT.png)
@@ -80,5 +81,24 @@
 > DFD圖0
 ![DFD圖0](https://i.imgur.com/wp5S0Yc.jpg)
 
+
+> UML類別圖
+![UML類別圖](https://i.imgur.com/1owx1JA.png)
+
+>循序圖1(會員註冊)
+![循序圖1](https://i.imgur.com/Apsk5y9.png)
+>活動圖1(會員註冊)
+![活動圖1](https://i.imgur.com/yDupuok.png)
+
+>循序圖2(調整個人策略)
+![循序圖2](https://i.imgur.com/LkLmSgW.png)
+>活動圖2(調整個人策略)
+![活動圖2](https://i.imgur.com/ewCcV6I.png)
+
+
+>循序圖3(查詢報表)
+![循序圖3](https://i.imgur.com/LMsMpmC.jpg)
+>活動圖3(查詢報表)
+![活動圖3](https://i.imgur.com/RDqASNV.jpg)
 
 
