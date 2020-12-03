@@ -101,4 +101,14 @@
 >活動圖3(查詢報表)
 ![活動圖3](https://i.imgur.com/RDqASNV.jpg)
 
+>分鏡圖
+![](https://i.imgur.com/ae1LEsS.jpg)
+![](https://i.imgur.com/ETC2BYE.jpg)
+![](https://i.imgur.com/HvdhXzU.jpg)
+![](https://i.imgur.com/ujz1MQr.jpg)
+
+
+
+
+
 
