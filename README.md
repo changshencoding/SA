@@ -14,7 +14,8 @@
 ![gantt](https://i.imgur.com/wVNKbIw.png)
 
 ### PERT/CMP圖
-![PERT/CMP](https://i.imgur.com/U3gnq4O.png)
+![PERT/CMP](https://i.imgur.com/mLcgSmQ.png)
+
 
 ### 系統需求
 > 功能性需求
@@ -109,6 +110,8 @@
 
 >實體關係圖
 ![實體關係圖](https://i.imgur.com/JBmYcUO.jpg)
+
+[簡報](https://docs.google.com/presentation/d/1RQt9ha52jJRm8NVxR3eTvQPPMSDDy03g/edit#slide=id.p3)
 
 
 
