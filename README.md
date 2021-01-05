@@ -111,7 +111,7 @@
 >實體關係圖
 ![實體關係圖](https://i.imgur.com/JBmYcUO.jpg)
 
-[簡報](https://docs.google.com/presentation/d/1RQt9ha52jJRm8NVxR3eTvQPPMSDDy03g/edit#slide=id.p3)
+[簡報](https://drive.google.com/file/d/1RQt9ha52jJRm8NVxR3eTvQPPMSDDy03g/view?usp=sharing)
 
 
 
